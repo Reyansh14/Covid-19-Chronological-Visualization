@@ -5,4 +5,5 @@ The data is sourced from John Hopkins University using their CSSE COVID-19 datas
 
 To Do: 
 * Let the program automatically update the dataset every day 
-* Add more visualizations for the total recovered cases and total deaths by country.
+* Add more visualizations for the total recovered cases and total deaths by country
+* Create a heatmap of the virus' spread
